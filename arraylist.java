@@ -209,7 +209,7 @@ public class arraylist {
 		    }
 		}
 		
-		System.out.println("8. Lista con reemplazos: " + listaReemplazo);
+		System.out.println("9. Lista con reemplazos: " + listaReemplazo);
 		
 	//Verificación de Palíndromo: Se le entrega un ArrayList de Character que representa una secuencia de letras. El programa debe determinar si la secuencia forma un palíndromo (se lee igual de izquierda a derecha que de derecha a izquierda), devolviendo un valor booleano o un mensaje que lo indique.
 		ArrayList<Character> listaPalindromo = new ArrayList<>();
@@ -232,7 +232,7 @@ public class arraylist {
 		    derecha--;
 		}
 
-		System.out.println("9. ¿La lista es palíndromo?: " + esPalindromo);
+		System.out.println("10. ¿La lista es palíndromo?: " + esPalindromo);
 		
 	}
 }
